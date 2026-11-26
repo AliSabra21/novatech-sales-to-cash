@@ -8,7 +8,8 @@ Sales-to-Cash process of a fictional B2B technology company.
 The project integrates relational databases, Python-based
 data processing, SQL analytics and interactive Power BI
 dashboards to support data-driven business decisions.
-
+### Executive Overview
+![Executive Overview](documentation/images/executive_overview.png)
 ## Technology Stack
 
 - PostgreSQL – Database management
@@ -124,10 +125,6 @@ Otto von Guericke University Magdeburg
 Interests: Business Analytics, Business Intelligence,
 Finance, ERP Systems and Digital Transformation.
 ## Dashboard Previews
-
-### Executive Overview
-![Executive Overview](documentation/images/executive_overview.png)
-
 ### Sales & Profitability
 ![Sales & Profitability](documentation/images/sales_profitability.png)
 
