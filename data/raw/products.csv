@@ -1,0 +1,61 @@
+product_id,product_name,product_category,list_price,standard_cost,supplier,active_status
+P001,Temperature Sensor,Sensors,70.98,45.53,NordTech Systems,Active
+P002,Pressure Sensor,Sensors,180.68,115.62,Benelux Controls,Active
+P003,Proximity Sensor,Sensors,194.28,111.57,Benelux Controls,Active
+P004,Optical Sensor,Sensors,80.2,46.83,Benelux Controls,Active
+P005,Flow Sensor,Sensors,134.41,67.37,Vector Automation,Active
+P006,Humidity Sensor,Sensors,86.85,49.63,Alpen Components,Active
+P007,Vibration Sensor,Sensors,184.45,89.04,EuroMotion Industries,Active
+P008,Level Sensor,Sensors,77.3,35.18,EuroMotion Industries,Active
+P009,Motion Sensor,Sensors,152.13,96.09,Nexa Industrial,Active
+P010,Position Sensor,Sensors,123.46,73.21,Alpen Components,Active
+P011,PLC Control Module,Controllers,812.49,608.96,Benelux Controls,Active
+P012,Motion Controller,Controllers,346.81,256.31,Alpen Components,Active
+P013,Motor Controller,Controllers,1006.42,706.37,NordTech Systems,Active
+P014,Process Controller,Controllers,579.84,392.61,Vector Automation,Active
+P015,Safety Controller,Controllers,315.51,226.08,NordTech Systems,Active
+P016,Compact PLC,Controllers,1057.1,790.73,Alpen Components,Active
+P017,Remote I/O Controller,Controllers,661.85,440.26,CoreTech Components,Active
+P018,PID Controller,Controllers,921.94,625.43,EuroMotion Industries,Active
+P019,Machine Controller,Controllers,835.12,639.31,CoreTech Components,Active
+P020,Logic Control Unit,Controllers,691.63,517.78,EuroMotion Industries,Active
+P021,Industrial Power Supply,Power,238.26,134.42,Alpen Components,Active
+P022,DIN Rail Power Supply,Power,218.31,131.24,CoreTech Components,Active
+P023,UPS Module,Power,352.13,225.46,Vector Automation,Active
+P024,Voltage Converter,Power,103.2,69.47,Rhein Electronics,Active
+P025,DC Power Module,Power,314.27,183.49,EuroMotion Industries,Active
+P026,Power Distribution Unit,Power,246.56,167.28,EuroMotion Industries,Active
+P027,Battery Backup Module,Power,345.66,211.89,Benelux Controls,Active
+P028,AC/DC Converter,Power,129.38,84.05,CoreTech Components,Active
+P029,Power Controller,Power,345.38,194.54,CoreTech Components,Active
+P030,Industrial Transformer,Power,387.12,235.5,NordTech Systems,Active
+P031,Industrial Ethernet Cable,Connectivity,46.05,20.66,Benelux Controls,Active
+P032,M12 Connector,Connectivity,105.74,55.82,CoreTech Components,Active
+P033,Fieldbus Connector,Connectivity,174.97,83.22,Vector Automation,Active
+P034,Industrial Switch,Connectivity,118.51,59.23,EuroMotion Industries,Active
+P035,Fiber Optic Cable,Connectivity,90.39,38.56,Benelux Controls,Active
+P036,I/O Connector,Connectivity,108.35,61.05,Rhein Electronics,Active
+P037,Data Cable,Connectivity,73.63,41.42,EuroMotion Industries,Active
+P038,Network Adapter,Connectivity,222.88,137.04,EuroMotion Industries,Active
+P039,Terminal Block,Connectivity,294.54,171.77,EuroMotion Industries,Active
+P040,Signal Connector,Connectivity,83.7,36.78,NordTech Systems,Active
+P041,Industrial IoT Gateway,IoT,1376.63,828.07,NordTech Systems,Active
+P042,Edge Computing Gateway,IoT,1762.73,1188.21,Rhein Electronics,Active
+P043,Wireless IoT Module,IoT,1274.91,902.6,Alpen Components,Active
+P044,Remote Monitoring Gateway,IoT,1615.44,1094.61,CoreTech Components,Active
+P045,Data Acquisition Gateway,IoT,1044.14,666.08,NordTech Systems,Active
+P046,Smart Factory Gateway,IoT,716.09,520.23,Alpen Components,Active
+P047,Industrial 5G Module,IoT,1542.07,999.45,Alpen Components,Active
+P048,Telemetry Gateway,IoT,1186.68,826.76,Rhein Electronics,Active
+P049,Sensor IoT Hub,IoT,566.34,382.67,EuroMotion Industries,Active
+P050,Edge Analytics Device,IoT,473.51,294.61,Nexa Industrial,Active
+P051,Servo Actuator,Automation,623.24,420.04,Benelux Controls,Active
+P052,Linear Actuator,Automation,763.83,445.83,CoreTech Components,Active
+P053,Industrial Relay,Automation,366.8,230.89,Nexa Industrial,Active
+P054,Variable Frequency Drive,Automation,373.47,237.76,Alpen Components,Active
+P055,Motor Starter,Automation,906.5,494.69,Benelux Controls,Active
+P056,Safety Relay,Automation,339.66,175.9,Benelux Controls,Active
+P057,Robot Interface Module,Automation,264.27,136.5,NordTech Systems,Active
+P058,Automation Interface,Automation,459.07,299.16,CoreTech Components,Active
+P059,Industrial HMI,Automation,361.75,199.3,EuroMotion Industries,Active
+P060,Remote I/O Module,Automation,703.48,422.01,Benelux Controls,Active

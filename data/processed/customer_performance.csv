@@ -1,0 +1,121 @@
+customer_id,customer_name,customer_segment,country,order_count,revenue,gross_profit,gross_margin_pct,invoice_count,total_invoiced,outstanding_amount,overdue_amount,avg_payment_delay_days,late_payment_count,late_payment_rate_pct,customer_profile
+C034,Soos NV,Distributor,Netherlands,54,6990776.64,1722342.8,24.64,71,6990776.65,1354691.33,1354691.33,47.02,55,100.0,High Value / Payment Risk
+C115,Verdier,Distributor,Belgium,60,6791232.09,1683044.18,24.78,69,6791232.12,1148189.62,1148189.62,25.04,55,100.0,High Value / Payment Risk
+C065,Pichon S.A.S.,Enterprise,Belgium,51,6202214.93,1550834.08,25.0,61,6202214.94,651997.08,651997.08,6.95,45,80.36,High Value / Payment Risk
+C055,Neureuther,Distributor,Germany,51,6019952.16,1567001.1,26.03,63,6019952.16,435257.36,435257.36,6.11,40,75.47,High Value / Payment Risk
+C023,Wiener & Schrittwieser GmbH,Enterprise,Austria,48,5990425.96,1599468.91,26.7,55,5990425.96,17100.65,17100.65,-0.98,21,38.89,High Value / Payment Risk
+C004,Carpentier S.A.,Enterprise,France,53,5628489.28,1504126.98,26.72,62,5628489.29,418777.44,418777.44,-1.83,23,38.98,High Value / Payment Risk
+C074,Radisch,Distributor,Germany,41,5601549.8,1335805.92,23.85,53,5601549.83,0.0,0.0,-1.3,19,35.85,High Value / Reliable
+C022,François,Enterprise,Belgium,53,5528922.93,1439927.92,26.04,63,5528922.94,58194.1,58194.1,7.68,53,85.48,High Value / Payment Risk
+C041,Jäntsch Henck AG,Enterprise,Germany,51,5365945.17,1455837.02,27.13,62,5365945.15,131025.78,131025.78,6.83,48,82.76,High Value / Payment Risk
+C117,Strobl & Ostermann OG,Enterprise,Austria,58,5304147.88,1326079.91,25.0,69,5304147.84,13989.32,13989.32,-2.04,21,30.88,High Value / Payment Risk
+C077,Mathieu,Enterprise,France,56,5284898.0,1365362.06,25.84,65,5284898.02,489442.68,489442.68,24.22,54,100.0,High Value / Payment Risk
+C048,Jockel,Distributor,Germany,45,5188111.47,1224295.9,23.6,50,5188111.47,0.0,0.0,-1.54,21,42.0,High Value / Reliable
+C011,"Sauro, Valguarnera e Cattaneo s.r.l.",Enterprise,Italy,49,5060293.38,1330333.87,26.29,57,5060293.3,0.0,0.0,-1.28,22,38.6,High Value / Reliable
+C040,Kager & Messner AG,Enterprise,Austria,53,5008961.49,1338732.42,26.73,68,5008961.47,269472.76,269472.76,6.59,50,79.37,High Value / Payment Risk
+C002,Hauffer AG & Co. KG,Enterprise,Germany,47,4967919.4,1299374.47,26.16,58,4967919.37,25449.62,25449.62,-1.14,24,42.11,High Value / Payment Risk
+C070,Adler Krebs GbR,Distributor,Germany,43,4736274.95,1179802.01,24.91,51,4736274.95,10230.46,10230.46,-0.54,21,42.0,High Value / Payment Risk
+C033,Windhager & Ofner GmbH,Distributor,Austria,33,4372819.26,1034522.12,23.66,38,4372819.27,0.0,0.0,-2.0,10,26.32,High Value / Reliable
+C099,Broeckx & Tamsma,Enterprise,Netherlands,48,4351955.36,1161055.81,26.68,56,4351955.33,1164500.36,1164500.36,43.97,32,100.0,High Value / Payment Risk
+C096,Schönberger KG,Enterprise,Austria,44,4289989.43,1073726.67,25.03,54,4289989.44,103411.11,103411.11,-3.0,14,26.42,High Value / Payment Risk
+C087,Devaux,Distributor,France,39,4282597.86,1052384.2,24.57,47,4282597.85,742727.36,742727.36,46.82,33,100.0,High Value / Payment Risk
+C027,Vasseur,Distributor,France,51,4251284.68,1136106.44,26.72,65,4251284.67,0.0,0.0,-1.12,25,38.46,High Value / Reliable
+C073,Stichting Cadefau,Enterprise,Netherlands,41,4170627.29,1105874.39,26.52,56,4170627.34,556119.67,556119.67,23.61,46,100.0,High Value / Payment Risk
+C018,Goncalves Pinto S.A.R.L.,Enterprise,France,44,4095712.76,1068912.5,26.1,50,4095712.76,0.0,0.0,7.38,40,80.0,High Value / Reliable
+C088,Stange Groep,Enterprise,Netherlands,46,4092159.01,1041748.64,25.46,58,4092159.02,0.0,0.0,-1.91,21,36.21,High Value / Reliable
+C049,Rosner & Kogler KG,Enterprise,Austria,41,4091207.15,1063522.51,26.0,52,4091207.21,176644.22,176644.22,6.18,40,80.0,High Value / Payment Risk
+C100,Klemt AG & Co. OHG,Distributor,Germany,37,4017734.34,931490.25,23.18,43,4017734.36,164441.32,164441.32,26.54,39,100.0,High Value / Payment Risk
+C106,Hartung Gute GmbH & Co. KG,Enterprise,Germany,42,3983028.18,1097023.6,27.54,45,3983028.15,0.0,0.0,5.04,34,75.56,High Value / Reliable
+C003,van Brenen BV,Enterprise,Netherlands,43,3934576.94,1030364.01,26.19,48,3934576.99,0.0,0.0,-3.1,14,29.17,High Value / Reliable
+C101,Wildschut Groep,Distributor,Netherlands,35,3911377.33,930261.81,23.78,38,3911377.34,0.0,0.0,-3.89,8,21.05,High Value / Reliable
+C036,Wiek,Distributor,Germany,44,3878419.31,945566.91,24.38,51,3878419.28,96083.74,96083.74,6.81,40,85.11,High Value / Payment Risk
+C120,"Mantegna, Tolentino e Maspero s.r.l.",Enterprise,Italy,51,3856278.47,1050933.13,27.25,59,3856278.48,0.0,0.0,-2.12,21,35.59,Standard Customer
+C031,Lenoir,Enterprise,France,37,3838551.61,1002784.06,26.12,47,3838551.64,93191.86,93191.86,8.47,38,84.44,Standard Customer
+C044,Spitzer & Fehringer AG,Enterprise,Austria,39,3821933.6,981962.3,25.69,45,3821933.61,0.0,0.0,-1.38,16,35.56,Standard Customer
+C054,Hellwig,Enterprise,Germany,53,3791173.56,997006.82,26.3,62,3791173.55,231890.45,231890.45,24.06,51,100.0,Standard Customer
+C001,Blokland Groep,Enterprise,Netherlands,39,3474846.5,891679.69,25.66,49,3474846.49,4007.56,4007.56,7.71,41,85.42,Standard Customer
+C068,Leduc,Distributor,France,35,3203966.42,809661.31,25.27,41,3203966.43,0.0,0.0,-1.05,17,41.46,Standard Customer
+C050,Fabian Heigl GesbR,Distributor,Austria,33,3199486.32,783486.68,24.49,39,3199486.31,1945.64,1945.64,-1.08,16,42.11,Standard Customer
+C086,Koch II GmbH,Mid-Market,Germany,47,3031075.4,918376.17,30.3,60,3031075.37,0.0,0.0,-1.75,23,38.33,Standard Customer
+C090,Röhrdanz,Mid-Market,Germany,46,3019211.76,926666.33,30.69,55,3019211.74,3309.45,3309.45,-2.0,22,40.74,Standard Customer
+C028,"Taccola, Burcardo e Bellini SPA",Mid-Market,Italy,41,2786032.57,845092.73,30.33,54,2786032.48,105500.93,105500.93,-2.79,14,26.42,Standard Customer
+C085,"Stichting West-Francië, van",Mid-Market,Netherlands,38,2647371.02,812928.56,30.71,45,2647371.0,0.0,0.0,-2.38,14,31.11,Standard Customer
+C037,Toussaint SARL,Mid-Market,Belgium,41,2553803.29,776523.29,30.41,50,2553803.29,3318.75,3318.75,5.47,37,75.51,Standard Customer
+C008,Förster Hande e.G.,Mid-Market,Germany,38,2533266.33,791169.06,31.23,47,2533266.37,134746.81,134746.81,-2.52,16,34.78,Standard Customer
+C042,Budig,Mid-Market,Germany,41,2488880.76,782409.01,31.44,52,2488880.74,0.0,0.0,-2.52,14,26.92,Standard Customer
+C089,Rotteveel & Hekker,Mid-Market,Netherlands,35,2197708.53,654066.88,29.76,42,2197708.47,55858.62,55858.62,0.07,22,53.66,Standard Customer
+C007,Löchel,Mid-Market,Germany,40,2177429.35,637988.2,29.3,44,2177429.36,62886.82,62886.82,23.69,39,100.0,Standard Customer
+C026,"Zamorani, Vasari e Iadanza s.r.l.",Mid-Market,Italy,33,2106505.66,615939.86,29.24,37,2106505.66,0.0,0.0,-2.68,8,21.62,Standard Customer
+C015,De Sousa,Mid-Market,France,38,2072782.95,615644.72,29.7,48,2072782.98,82336.05,82336.05,6.24,32,71.11,Standard Customer
+C119,Dupré,Mid-Market,Belgium,41,2049194.5,593991.87,28.99,46,2049194.49,79229.43,79229.43,5.93,33,76.74,Standard Customer
+C020,Junk,Mid-Market,Germany,34,2012258.29,634174.16,31.52,41,2012258.28,30655.47,30655.47,-1.98,15,37.5,Standard Customer
+C024,Lannoo Meulenhoff,Mid-Market,Netherlands,36,1994875.03,601444.43,30.15,41,1994875.0,0.0,0.0,-1.17,14,34.15,Standard Customer
+C062,Menard S.A.,Mid-Market,France,33,1961657.01,587178.22,29.93,41,1961657.04,0.0,0.0,7.02,37,90.24,Standard Customer
+C109,Clerc,Mid-Market,France,41,1944938.41,603349.79,31.02,52,1944938.35,0.0,0.0,-0.71,21,40.38,Standard Customer
+C013,Dorsman & Bruggeman,Mid-Market,Netherlands,37,1930395.1,612142.08,31.71,45,1930395.13,399.17,399.17,-0.43,18,40.91,Standard Customer
+C091,Koninklijke Merkx,Mid-Market,Netherlands,33,1888575.5,563265.1,29.82,42,1888575.54,74763.31,74763.31,-2.4,16,40.0,Standard Customer
+C005,"Avogadro, Zamorani e Filangieri s.r.l.",Mid-Market,Italy,34,1877371.73,577318.19,30.75,42,1877371.73,54692.09,54692.09,6.9,35,87.5,Standard Customer
+C112,Hettner,Mid-Market,Germany,35,1851163.72,561318.19,30.32,44,1851163.72,24164.14,24164.14,-0.86,20,46.51,Standard Customer
+C110,Stiebitz Reising GmbH,Mid-Market,Germany,29,1841629.35,575414.63,31.24,37,1841629.34,283344.53,283344.53,23.72,29,100.0,Standard Customer
+C082,Koninklijke Tuithof,Mid-Market,Netherlands,37,1834730.93,557501.69,30.39,44,1834730.92,71309.49,71309.49,-2.07,14,32.56,Standard Customer
+C009,Davids GmbH,Mid-Market,Germany,31,1802047.86,558389.97,30.99,37,1802047.8,0.0,0.0,-1.62,13,35.14,Standard Customer
+C118,Losekann Bohnbach OHG mbH,Mid-Market,Germany,33,1780619.33,535671.2,30.08,42,1780619.31,71011.6,71011.6,7.0,31,77.5,Standard Customer
+C051,Lefebvre,Mid-Market,Belgium,33,1772444.48,542638.47,30.62,44,1772444.45,41838.64,41838.64,-2.91,13,30.23,Standard Customer
+C069,Lopez,Mid-Market,France,28,1761143.62,560269.1,31.81,31,1761143.64,0.0,0.0,-2.19,9,29.03,Standard Customer
+C098,"Barcaccia, Pacomio e Viola e figli",Mid-Market,Italy,35,1669623.85,505657.53,30.29,40,1669623.79,17635.64,17635.64,-2.44,14,35.9,Standard Customer
+C046,auch Schlauchin,Mid-Market,Germany,33,1642370.9,518201.33,31.55,38,1642370.89,0.0,0.0,-2.18,13,34.21,Standard Customer
+C081,Hettner GmbH,Mid-Market,Germany,27,1637246.88,504474.88,30.81,34,1637246.88,77629.97,77629.97,7.61,27,87.1,Standard Customer
+C035,Adler Schuler e.V.,Mid-Market,Austria,29,1582201.33,492910.87,31.15,36,1582201.36,0.0,0.0,-2.64,11,30.56,Standard Customer
+C063,Meister,Mid-Market,Germany,34,1579294.31,504724.26,31.96,37,1579294.34,2434.51,2434.51,6.17,30,83.33,Standard Customer
+C076,Valentin SA,Mid-Market,Belgium,28,1553551.97,505685.69,32.55,36,1553551.96,0.0,0.0,-1.58,16,44.44,Standard Customer
+C071,Koninklijke van Schevinghuizen,Mid-Market,Netherlands,32,1448196.48,479981.75,33.14,42,1448196.5,0.0,0.0,-0.57,18,42.86,Standard Customer
+C113,Schenk GmbH & Co. KG,Mid-Market,Germany,27,1395855.18,428582.77,30.7,36,1395855.15,21938.89,21938.89,-1.4,15,42.86,Standard Customer
+C043,Neureuther,Mid-Market,Germany,30,1376189.01,461517.48,33.54,38,1376188.99,12789.27,12789.27,-2.0,12,32.43,Standard Customer
+C019,Stroh,Mid-Market,Germany,24,1373947.14,421221.21,30.66,28,1373947.14,0.0,0.0,7.64,23,82.14,Standard Customer
+C079,Decker & Lackner OG,Mid-Market,Austria,26,1364810.02,420877.16,30.84,31,1364810.05,0.0,0.0,-2.77,9,29.03,Standard Customer
+C094,van Breukelveen NV,Mid-Market,Netherlands,34,1352752.45,419795.85,31.03,41,1352752.45,0.0,0.0,-1.44,14,34.15,Standard Customer
+C053,Beckmann GmbH,Mid-Market,Germany,31,1258381.16,388054.44,30.84,37,1258381.2,2581.72,2581.72,-2.03,13,36.11,Standard Customer
+C030,Godard,SME,France,26,635871.29,213931.55,33.64,30,635871.25,0.0,0.0,6.87,25,83.33,Standard Customer
+C045,Gehringer,SME,Germany,22,615966.52,199786.36,32.43,24,615966.52,0.0,0.0,-0.25,11,45.83,Standard Customer
+C032,Ullmann,SME,Germany,28,592098.47,198659.8,33.55,33,592098.46,9266.79,9266.79,6.81,24,75.0,Standard Customer
+C095,Kammerer AG,SME,Austria,23,560763.13,182236.29,32.5,30,560763.07,12082.99,12082.99,-2.41,9,31.03,Standard Customer
+C021,Bos & Totwiller,SME,Netherlands,23,551403.23,184848.42,33.52,25,551403.28,17833.77,17833.77,5.29,19,79.17,Standard Customer
+C072,Collet Carpentier SA,SME,Belgium,20,541341.01,174555.25,32.24,25,541341.02,81655.84,81655.84,22.0,21,100.0,Standard Customer
+C025,Hettner AG & Co. KG,SME,Germany,23,502456.4,161167.94,32.08,28,502456.43,47926.67,47926.67,25.5,22,100.0,Standard Customer
+C039,Wiek Fritsch KG,SME,Germany,20,498551.85,163700.22,32.84,27,498551.83,31513.57,31513.57,23.71,24,100.0,Standard Customer
+C017,Schenk & Rohrmoser AG,SME,Austria,22,496396.67,164221.37,33.08,27,496396.65,0.0,0.0,-1.81,8,29.63,Standard Customer
+C066,Roth KG,SME,Austria,28,491277.27,169170.94,34.43,34,491277.22,16067.24,16067.24,6.44,24,75.0,Standard Customer
+C057,Aubert,SME,Belgium,18,485189.0,148277.35,30.56,21,485188.97,0.0,0.0,-2.9,3,14.29,Standard Customer
+C059,Langern Mosemann Stiftung & Co. KGaA,SME,Germany,29,481352.86,161710.74,33.6,35,481352.87,0.0,0.0,-0.51,15,42.86,Standard Customer
+C075,Tomasetti SPA,SME,Italy,20,458758.59,147242.31,32.1,23,458758.59,13191.85,13191.85,5.76,17,80.95,Standard Customer
+C080,Hermann Gschaider OG,SME,Austria,20,451654.01,149722.86,33.15,24,451654.05,1116.03,1116.03,-0.48,11,47.83,Standard Customer
+C097,Heerkens BV,SME,Netherlands,25,448275.89,149149.6,33.27,31,448275.92,49089.35,49089.35,44.05,22,100.0,Standard Customer
+C083,Mielcarek KG,SME,Germany,22,444649.88,147956.0,33.27,25,444649.87,38774.3,38774.3,6.7,18,78.26,Standard Customer
+C107,Heidrich Hauffer AG,SME,Germany,23,429992.51,133801.18,31.12,33,429992.48,0.0,0.0,-1.88,13,39.39,Standard Customer
+C116,Stichting van Egisheim,SME,Netherlands,18,428390.58,137793.06,32.17,20,428390.59,73742.78,73742.78,18.69,16,100.0,Standard Customer
+C058,Delmas S.A.R.L.,SME,France,21,417641.16,133264.31,31.91,27,417641.15,7118.86,7118.86,5.52,23,92.0,Standard Customer
+C061,Kusch Stiftung & Co. KGaA,SME,Germany,22,413739.2,133534.83,32.28,27,413739.21,72106.77,72106.77,35.95,19,100.0,Standard Customer
+C006,Pröll Hofstetter AG,SME,Austria,23,410531.26,141103.63,34.37,26,410531.26,52544.86,52544.86,6.0,20,80.0,Standard Customer
+C103,van Amstel & Bloemendaal,SME,Netherlands,19,409069.0,136969.95,33.48,20,409069.0,0.0,0.0,6.35,13,65.0,Standard Customer
+C047,Gimenez Faivre et Fils,SME,France,18,407159.52,136631.34,33.56,19,407159.54,0.0,0.0,-1.79,7,36.84,Standard Customer
+C067,Oversteeg BV,SME,Netherlands,15,404927.39,128097.01,31.63,16,404927.4,15105.74,15105.74,-3.4,3,20.0,Standard Customer
+C064,Gmeiner Hofstätter KG,SME,Austria,17,400755.94,138428.61,34.54,22,400755.94,0.0,0.0,5.14,16,72.73,Standard Customer
+C092,Striebitz KGaA,SME,Germany,13,394884.6,132906.89,33.66,16,394884.61,4511.83,4511.83,7.27,12,80.0,Standard Customer
+C102,Seiser & Friedrich GesbR,SME,Austria,18,378404.93,129468.05,34.21,22,378404.94,10078.17,10078.17,7.38,20,95.24,Standard Customer
+C052,"Galuppi, Aldobrandi e Bondumier SPA",SME,Italy,21,369034.13,121779.94,33.0,24,369034.11,0.0,0.0,-1.58,9,37.5,Standard Customer
+C114,Koninklijke van de Ven,SME,Netherlands,14,368609.52,114515.58,31.07,20,368609.53,4355.43,4355.43,-1.32,9,47.37,Standard Customer
+C038,Gumprich,SME,Germany,22,362038.06,122716.27,33.9,25,362038.08,66739.97,66739.97,6.92,20,83.33,Standard Customer
+C105,Cuomo-Cannizzaro s.r.l.,SME,Italy,22,359844.87,123080.26,34.2,28,359844.84,41992.83,41992.83,-2.46,6,23.08,Standard Customer
+C093,Deschamps,SME,France,19,355039.41,108688.38,30.61,25,355039.38,16239.85,16239.85,6.23,17,77.27,Standard Customer
+C111,Wiesbauer GmbH,SME,Austria,23,351307.0,115141.06,32.78,26,351307.0,18300.2,18300.2,24.95,21,100.0,Standard Customer
+C029,van Brenen & Demmendaal,SME,Netherlands,19,337408.09,113219.66,33.56,23,337408.1,11089.76,11089.76,7.81,19,90.48,Standard Customer
+C012,Humer & Trattner OG,SME,Austria,19,311849.08,108222.18,34.7,23,311849.09,0.0,0.0,-1.78,7,30.43,Standard Customer
+C084,Renner AG & Co. OHG,SME,Germany,16,310173.9,106974.52,34.49,19,310173.89,16240.54,16240.54,21.87,15,100.0,Standard Customer
+C108,Jüttner Holsten AG,SME,Germany,15,305027.99,103240.52,33.85,18,305027.94,0.0,0.0,-1.28,9,50.0,Standard Customer
+C078,Scheibe,SME,Germany,19,292644.73,88173.93,30.13,21,292644.69,0.0,0.0,-1.1,8,38.1,Standard Customer
+C056,van Noort & Peters,SME,Netherlands,13,278544.45,93765.87,33.66,15,278544.46,0.0,0.0,5.73,13,86.67,Standard Customer
+C060,Söding,SME,Germany,14,269755.89,86170.53,31.94,16,269755.87,0.0,0.0,-5.25,2,12.5,Standard Customer
+C010,Koninklijke Rotteveel,SME,Netherlands,13,255341.4,78313.88,30.67,16,255341.38,0.0,0.0,-2.44,4,25.0,Standard Customer
+C016,Lemaître Monnier S.A.,SME,Belgium,10,225461.86,75240.16,33.37,13,225461.85,0.0,0.0,-2.31,4,30.77,Standard Customer
+C104,Bouchet,SME,Belgium,15,204103.41,67126.58,32.89,20,204103.47,0.0,0.0,-2.15,6,30.0,Standard Customer
+C014,Bottaro-Giannini SPA,SME,Italy,9,156863.41,52745.21,33.62,9,156863.4,0.0,0.0,-1.11,3,33.33,Standard Customer

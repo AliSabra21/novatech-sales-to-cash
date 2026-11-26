@@ -1,0 +1,121 @@
+customer_id,customer_name,country,region,industry,customer_segment,payment_terms_days,credit_limit,customer_since
+C001,Blokland Groep,Netherlands,Benelux,Machinery,Enterprise,30,267000,2021-06-15
+C002,Hauffer AG & Co. KG,Germany,DACH,Logistics,Enterprise,60,196000,2018-07-09
+C003,van Brenen BV,Netherlands,Benelux,Automotive,Enterprise,30,272000,2017-04-14
+C004,Carpentier S.A.,France,Western Europe,Industrial Automation,Enterprise,60,491000,2025-05-17
+C005,"Avogadro, Zamorani e Filangieri s.r.l.",Italy,Southern Europe,Electronics,Mid-Market,45,181000,2020-07-11
+C006,Pröll Hofstetter AG,Austria,DACH,Industrial Automation,SME,30,65000,2019-06-30
+C007,Löchel,Germany,DACH,Machinery,Mid-Market,30,87000,2022-07-26
+C008,Förster Hande e.G.,Germany,DACH,Machinery,Mid-Market,45,181000,2022-07-03
+C009,Davids GmbH,Germany,DACH,Automotive,Mid-Market,45,85000,2018-06-03
+C010,Koninklijke Rotteveel,Netherlands,Benelux,Energy,SME,30,45000,2017-07-07
+C011,"Sauro, Valguarnera e Cattaneo s.r.l.",Italy,Southern Europe,Industrial Automation,Enterprise,45,192000,2018-02-12
+C012,Humer & Trattner OG,Austria,DACH,Electronics,SME,30,79000,2022-12-06
+C013,Dorsman & Bruggeman,Netherlands,Benelux,Machinery,Mid-Market,45,102000,2020-08-27
+C014,Bottaro-Giannini SPA,Italy,Southern Europe,Logistics,SME,14,42000,2023-03-31
+C015,De Sousa,France,Western Europe,Electronics,Mid-Market,45,110000,2022-12-25
+C016,Lemaître Monnier S.A.,Belgium,Benelux,Energy,SME,14,63000,2021-04-26
+C017,Schenk & Rohrmoser AG,Austria,DACH,Industrial Automation,SME,14,61000,2019-09-09
+C018,Goncalves Pinto S.A.R.L.,France,Western Europe,Energy,Enterprise,60,315000,2021-05-15
+C019,Stroh,Germany,DACH,Logistics,Mid-Market,45,94000,2020-07-06
+C020,Junk,Germany,DACH,Energy,Mid-Market,45,173000,2017-09-23
+C021,Bos & Totwiller,Netherlands,Benelux,Electronics,SME,30,49000,2023-08-08
+C022,François,Belgium,Benelux,Electronics,Enterprise,30,175000,2020-05-14
+C023,Wiener & Schrittwieser GmbH,Austria,DACH,Industrial Automation,Enterprise,60,371000,2020-05-24
+C024,Lannoo Meulenhoff,Netherlands,Benelux,Energy,Mid-Market,45,144000,2024-08-01
+C025,Hettner AG & Co. KG,Germany,DACH,Automotive,SME,14,55000,2020-12-21
+C026,"Zamorani, Vasari e Iadanza s.r.l.",Italy,Southern Europe,Machinery,Mid-Market,45,96000,2023-07-28
+C027,Vasseur,France,Western Europe,Logistics,Distributor,45,231000,2019-02-17
+C028,"Taccola, Burcardo e Bellini SPA",Italy,Southern Europe,Automotive,Mid-Market,45,185000,2019-05-18
+C029,van Brenen & Demmendaal,Netherlands,Benelux,Industrial Automation,SME,30,41000,2023-04-28
+C030,Godard,France,Western Europe,Energy,SME,14,62000,2024-09-27
+C031,Lenoir,France,Western Europe,Machinery,Enterprise,45,276000,2016-12-21
+C032,Ullmann,Germany,DACH,Automotive,SME,14,84000,2018-09-22
+C033,Windhager & Ofner GmbH,Austria,DACH,Energy,Distributor,30,134000,2022-07-25
+C034,Soos NV,Netherlands,Benelux,Industrial Automation,Distributor,45,238000,2019-06-20
+C035,Adler Schuler e.V.,Austria,DACH,Industrial Automation,Mid-Market,30,168000,2021-04-04
+C036,Wiek,Germany,DACH,Logistics,Distributor,45,215000,2019-10-26
+C037,Toussaint SARL,Belgium,Benelux,Industrial Automation,Mid-Market,30,83000,2025-05-31
+C038,Gumprich,Germany,DACH,Industrial Automation,SME,14,21000,2019-05-18
+C039,Wiek Fritsch KG,Germany,DACH,Industrial Automation,SME,14,24000,2016-10-14
+C040,Kager & Messner AG,Austria,DACH,Industrial Automation,Enterprise,45,404000,2018-09-06
+C041,Jäntsch Henck AG,Germany,DACH,Energy,Enterprise,60,398000,2020-11-15
+C042,Budig,Germany,DACH,Electronics,Mid-Market,30,87000,2018-03-27
+C043,Neureuther,Germany,DACH,Electronics,Mid-Market,45,136000,2017-12-15
+C044,Spitzer & Fehringer AG,Austria,DACH,Logistics,Enterprise,60,202000,2024-11-11
+C045,Gehringer,Germany,DACH,Automotive,SME,14,45000,2021-04-15
+C046,auch Schlauchin,Germany,DACH,Electronics,Mid-Market,30,112000,2023-12-23
+C047,Gimenez Faivre et Fils,France,Western Europe,Automotive,SME,30,33000,2020-03-13
+C048,Jockel,Germany,DACH,Automotive,Distributor,30,298000,2023-07-26
+C049,Rosner & Kogler KG,Austria,DACH,Electronics,Enterprise,45,262000,2025-08-01
+C050,Fabian Heigl GesbR,Austria,DACH,Industrial Automation,Distributor,45,101000,2017-11-12
+C051,Lefebvre,Belgium,Benelux,Electronics,Mid-Market,45,130000,2020-09-09
+C052,"Galuppi, Aldobrandi e Bondumier SPA",Italy,Southern Europe,Energy,SME,30,40000,2020-09-02
+C053,Beckmann GmbH,Germany,DACH,Automotive,Mid-Market,30,173000,2017-12-25
+C054,Hellwig,Germany,DACH,Electronics,Enterprise,60,428000,2021-07-07
+C055,Neureuther,Germany,DACH,Automotive,Distributor,30,118000,2020-06-03
+C056,van Noort & Peters,Netherlands,Benelux,Industrial Automation,SME,30,36000,2024-10-27
+C057,Aubert,Belgium,Benelux,Energy,SME,14,31000,2018-05-20
+C058,Delmas S.A.R.L.,France,Western Europe,Energy,SME,30,54000,2022-10-21
+C059,Langern Mosemann Stiftung & Co. KGaA,Germany,DACH,Industrial Automation,SME,30,72000,2017-09-12
+C060,Söding,Germany,DACH,Electronics,SME,30,30000,2018-06-14
+C061,Kusch Stiftung & Co. KGaA,Germany,DACH,Energy,SME,14,30000,2022-07-20
+C062,Menard S.A.,France,Western Europe,Industrial Automation,Mid-Market,45,190000,2020-01-05
+C063,Meister,Germany,DACH,Machinery,Mid-Market,30,132000,2019-03-01
+C064,Gmeiner Hofstätter KG,Austria,DACH,Energy,SME,14,59000,2021-01-10
+C065,Pichon S.A.S.,Belgium,Benelux,Industrial Automation,Enterprise,45,211000,2018-06-11
+C066,Roth KG,Austria,DACH,Industrial Automation,SME,30,57000,2017-01-10
+C067,Oversteeg BV,Netherlands,Benelux,Industrial Automation,SME,30,86000,2023-09-10
+C068,Leduc,France,Western Europe,Automotive,Distributor,30,266000,2020-05-31
+C069,Lopez,France,Western Europe,Automotive,Mid-Market,45,176000,2019-07-31
+C070,Adler Krebs GbR,Germany,DACH,Industrial Automation,Distributor,60,216000,2024-07-08
+C071,Koninklijke van Schevinghuizen,Netherlands,Benelux,Automotive,Mid-Market,30,85000,2019-05-30
+C072,Collet Carpentier SA,Belgium,Benelux,Industrial Automation,SME,14,68000,2017-10-24
+C073,Stichting Cadefau,Netherlands,Benelux,Industrial Automation,Enterprise,30,312000,2024-11-20
+C074,Radisch,Germany,DACH,Automotive,Distributor,45,155000,2019-06-16
+C075,Tomasetti SPA,Italy,Southern Europe,Machinery,SME,30,40000,2019-12-09
+C076,Valentin SA,Belgium,Benelux,Industrial Automation,Mid-Market,30,191000,2020-10-11
+C077,Mathieu,France,Western Europe,Machinery,Enterprise,45,280000,2020-12-18
+C078,Scheibe,Germany,DACH,Automotive,SME,30,25000,2017-06-14
+C079,Decker & Lackner OG,Austria,DACH,Electronics,Mid-Market,45,115000,2025-09-02
+C080,Hermann Gschaider OG,Austria,DACH,Industrial Automation,SME,14,45000,2022-02-14
+C081,Hettner GmbH,Germany,DACH,Automotive,Mid-Market,45,121000,2019-01-02
+C082,Koninklijke Tuithof,Netherlands,Benelux,Energy,Mid-Market,45,198000,2018-01-04
+C083,Mielcarek KG,Germany,DACH,Machinery,SME,14,55000,2018-06-24
+C084,Renner AG & Co. OHG,Germany,DACH,Machinery,SME,30,77000,2025-05-20
+C085,"Stichting West-Francië, van",Netherlands,Benelux,Electronics,Mid-Market,30,108000,2017-12-12
+C086,Koch II GmbH,Germany,DACH,Energy,Mid-Market,30,123000,2019-06-18
+C087,Devaux,France,Western Europe,Machinery,Distributor,60,182000,2021-12-03
+C088,Stange Groep,Netherlands,Benelux,Machinery,Enterprise,60,312000,2018-07-16
+C089,Rotteveel & Hekker,Netherlands,Benelux,Logistics,Mid-Market,45,148000,2018-08-07
+C090,Röhrdanz,Germany,DACH,Electronics,Mid-Market,30,156000,2019-06-03
+C091,Koninklijke Merkx,Netherlands,Benelux,Automotive,Mid-Market,45,113000,2022-08-11
+C092,Striebitz KGaA,Germany,DACH,Energy,SME,30,81000,2021-04-08
+C093,Deschamps,France,Western Europe,Energy,SME,30,42000,2017-08-22
+C094,van Breukelveen NV,Netherlands,Benelux,Logistics,Mid-Market,45,87000,2017-07-11
+C095,Kammerer AG,Austria,DACH,Logistics,SME,30,49000,2021-03-26
+C096,Schönberger KG,Austria,DACH,Automotive,Enterprise,30,399000,2024-01-20
+C097,Heerkens BV,Netherlands,Benelux,Electronics,SME,30,45000,2019-04-25
+C098,"Barcaccia, Pacomio e Viola e figli",Italy,Southern Europe,Electronics,Mid-Market,30,94000,2024-02-02
+C099,Broeckx & Tamsma,Netherlands,Benelux,Automotive,Enterprise,45,265000,2022-12-24
+C100,Klemt AG & Co. OHG,Germany,DACH,Energy,Distributor,45,113000,2021-01-08
+C101,Wildschut Groep,Netherlands,Benelux,Automotive,Distributor,45,135000,2023-09-10
+C102,Seiser & Friedrich GesbR,Austria,DACH,Energy,SME,30,78000,2019-07-17
+C103,van Amstel & Bloemendaal,Netherlands,Benelux,Energy,SME,30,78000,2019-10-30
+C104,Bouchet,Belgium,Benelux,Electronics,SME,30,54000,2020-12-31
+C105,Cuomo-Cannizzaro s.r.l.,Italy,Southern Europe,Machinery,SME,30,51000,2017-06-08
+C106,Hartung Gute GmbH & Co. KG,Germany,DACH,Machinery,Enterprise,30,292000,2022-09-22
+C107,Heidrich Hauffer AG,Germany,DACH,Automotive,SME,14,40000,2020-01-24
+C108,Jüttner Holsten AG,Germany,DACH,Logistics,SME,14,28000,2021-07-11
+C109,Clerc,France,Western Europe,Electronics,Mid-Market,45,83000,2025-06-11
+C110,Stiebitz Reising GmbH,Germany,DACH,Energy,Mid-Market,30,187000,2017-03-31
+C111,Wiesbauer GmbH,Austria,DACH,Electronics,SME,14,66000,2019-10-25
+C112,Hettner,Germany,DACH,Electronics,Mid-Market,30,139000,2017-06-05
+C113,Schenk GmbH & Co. KG,Germany,DACH,Automotive,Mid-Market,45,119000,2022-08-29
+C114,Koninklijke van de Ven,Netherlands,Benelux,Logistics,SME,14,81000,2018-09-29
+C115,Verdier,Belgium,Benelux,Energy,Distributor,30,203000,2020-01-05
+C116,Stichting van Egisheim,Netherlands,Benelux,Automotive,SME,30,38000,2016-10-21
+C117,Strobl & Ostermann OG,Austria,DACH,Machinery,Enterprise,45,322000,2020-02-17
+C118,Losekann Bohnbach OHG mbH,Germany,DACH,Electronics,Mid-Market,45,174000,2022-05-24
+C119,Dupré,Belgium,Benelux,Automotive,Mid-Market,45,78000,2018-11-24
+C120,"Mantegna, Tolentino e Maspero s.r.l.",Italy,Southern Europe,Machinery,Enterprise,30,491000,2022-04-29
